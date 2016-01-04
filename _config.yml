@@ -1,7 +1,7 @@
 name: 2K/DENMARK
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.68733
+typography_spectrum: 0.77232
 title: 2K/DENMARK
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#f6951e'
     - '#ec038e'
   brandStrength: 0.75
-  lightness: 0.7130273
-  saturation: 0.6405869
-  rhythmicContrast: 0.7603399
+  lightness: 0.75
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
